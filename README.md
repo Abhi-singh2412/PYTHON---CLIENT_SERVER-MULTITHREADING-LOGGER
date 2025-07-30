@@ -7,7 +7,7 @@ A  Python project that uses sockets and multithreading to build a client-server 
 - Real-time server logging to server_log.txt
 - Graceful client disconnection
 
-## 🧰 Modules Used:
+##  Modules Used:
 - socket
 - threading
 - datetime
